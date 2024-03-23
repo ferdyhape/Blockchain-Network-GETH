@@ -11,7 +11,7 @@
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/ferdyhape/Split-Solidity-Express-Blockchain/assets/75787853/dea0f045-1d52-4df4-8dd1-378680f7fca9" width="75%" height="75%">
+  <img src="https://github.com/ferdyhape/GETH-Blockchain/assets/75787853/c1e495a2-3dec-487d-9f63-32d5b9eacf10" width="75%" height="75%">
 </p>
 
 ## Description
