@@ -1,0 +1,7 @@
+*/data/geth
+*/data/keystore
+*/data/geth.ipc
+node1/password.txt
+node2/password.txt
+info.txt
+bnode/boot.key
