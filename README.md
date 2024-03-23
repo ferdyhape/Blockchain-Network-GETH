@@ -112,7 +112,7 @@
     - Replace { PASSWORD_FILE_WITH_EXTENSION } with the password file name extension.
 
 12. Private network is ready to use.
-13. For testing network, test with deploy smart contract in Remix IDE. use "custom - external http provider" with host and port http://127.0.0.1:8545.
+13. For testing network, test with deploy smart contract in [Remix IDE](https://remix.ethereum.org/). use "custom - external http provider" with host and port http://127.0.0.1:8545.
 
 ### About Creator
 
