@@ -8,3 +8,6 @@ info.txt
 bnode/boot.key
 privateblock.json
 how-to-run.txt
+log/geth_log_enode.log
+log/geth_log_node1.log
+start.sh
